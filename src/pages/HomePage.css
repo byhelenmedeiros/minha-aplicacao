@@ -1,0 +1,50 @@
+
+
+.home-container {
+    background: rgb(219,219,219);
+background: linear-gradient(90deg, rgba(219,219,219,1) 39%, rgba(255,255,255,1) 72%, rgba(189,189,189,1) 100%);
+    min-height: 100vh;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  p.lead {
+    font-size: 1.125rem;
+    color: #3d2626;
+  }
+  
+  .service-btn {
+    border-radius: 12px;
+    font-size: 1em;
+    font-weight: 800;
+    text-transform: uppercase;
+    transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+    background-color: #361542 !important; 
+    border: none !important;
+  }
+
+  /* Ensure responsiveness using Bootstrap classes */
+  @media (max-width: 576px) {
+    h1 {
+      font-size: 2rem;
+    }
+  
+    p.lead {
+      font-size: 1rem;
+    }
+  
+    .service-btn {
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .service-btn {
+      padding: 10px 15px;
+    }
+  }
+  

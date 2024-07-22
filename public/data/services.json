@@ -1,0 +1,276 @@
+{
+  "development": [
+    {
+      "id": 1,
+      "name": "Desenvolvimento de Temas WordPress",
+      "description": "Website totalmente feito do zero com tema exclusivo codificado.",
+      "perfectFor": "Clientes que desejam um site único e personalizado",
+      "plans": {
+        "basic": {
+          "price": "€420",
+          "description": "BÁSICO.",
+          "features": [
+            "Design Personalizado: Tema WordPress básico e personalizado, adaptado às necessidades e identidade do cliente.",
+            "Número de Páginas: Até 5 páginas, incluindo Home, Sobre, Serviços/Produtos, Contato e Blog.",
+            "Responsivo: Layout totalmente responsivo para dispositivos móveis e desktops.",
+            "Configuração de Plugins Essenciais: Instalação e configuração de plugins essenciais, como SEO básico e segurança.",
+            "Formulário de Contato: Formulário de contato básico com validação de campos.",
+            "Integração com Redes Sociais: Links para redes sociais do cliente.",
+            "Treinamento Básico: Treinamento básico para o cliente sobre como atualizar o conteúdo do site.",
+            "Plugins: Não incluído, licença por conta do cliente.",
+            "Não inclui layout."
+          ]
+        },
+        "medium": {
+          "price": "€560",
+          "description": "ESSENCIAL",
+          "features": [
+            "Design Personalizado Avançado: Tema WordPress personalizado e mais elaborado, com opções adicionais de design.",
+            "Número de Páginas: Até 10 páginas, incluindo Home, Sobre, Serviços/Produtos, Contato, Blog, Galeria e mais.",
+            "Responsivo e Interativo: Layout responsivo e design interativo com animações e efeitos visuais.",
+            "Configuração de Plugins Avançados: Instalação e configuração de plugins adicionais, como SEO avançado, backup e segurança.",
+            "Formulário de Contato Avançado: Formulário de contato com campos personalizados e integração com ferramentas de CRM.",
+            "Galeria de Imagens: Galeria de imagens para exibir portfólio ou trabalhos realizados.",
+            "Blog: Configuração e personalização do blog com categorias e tags.",
+            "Integração com Google Analytics: Implementação de rastreamento de visitantes.",
+            "Treinamento Completo: Treinamento completo sobre como gerenciar e atualizar o site, incluindo SEO e análise de dados."
+          ]
+        },
+        "premium": {
+          "price": "€800",
+          "description": "PERSONALIZADO",
+          "features": [
+            "Design Personalizado: Tema WordPress exclusivo e personalizado.",
+            "Número de Páginas: Até 20 páginas, com layouts personalizados para diferentes seções do site.",
+            "Responsivo e Altamente Interativo: Layout responsivo com funcionalidades interativas avançadas, como sliders e efeitos de rolagem.",
+            "Configuração de Plugins Premium: Instalação e configuração de plugins premium para SEO, backup, segurança e desempenho.",
+            "Inclui Funcionalidades Personalizadas: Uso de Custom Post Types (CPT).",
+            "Formulário de Contato Personalizado: Formulário de contato com integração a ferramentas de marketing e CRM.",
+            "Galeria de Imagens e Vídeos: Galeria avançada para exibição de imagens e vídeos, com opções de filtragem.",
+            "Blog e Notícias: Blog avançado com funcionalidades de gestão de conteúdo e integração com redes sociais.",
+            "Treinamento Personalizado: Treinamento personalizado e suporte contínuo para o gerenciamento e atualização do site.",
+            "Plugins: Não incluído, licença por conta do cliente.",
+            "Não inclui layout."
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento de Plugins",
+      "description": "Criação de plugins personalizados para WordPress, incluindo addons para Elementor.",
+      "perfectFor": "Usuários que necessitam de funcionalidades específicas no WordPress",
+      "plans": {
+        "basic": {
+          "price": "€150",
+          "description": "BÁSICO.",
+          "features": [
+            "Desenvolvimento de um plugin simples com funcionalidades específicas.",
+            "Integração básica com a interface do WordPress.",
+            "Configuração de opções básicas no painel de administração.",
+            "Documentação básica do plugin.",
+            "Exemplo de plugin: Plugin de Notificação Simples"
+          ]
+        },
+        "medium": {
+          "price": "€300",
+          "description": "ESSENCIAL",
+          "features": [
+            "Desenvolvimento de um plugin com funcionalidades intermediárias.",
+            "Integração avançada com a interface do WordPress.",
+            "Configuração detalhada de opções no painel de administração.",
+            "Documentação detalhada do plugin.",
+            "Exemplo de plugin: Plugin de Formulário de Contato Avançado",
+            "Desenvolvimento de um addon para Elementor com widgets personalizados."
+          ]
+        },
+        "premium": {
+          "price": "€500",
+          "description": "PERSONALIZADO",
+          "features": [
+            "Desenvolvimento de um plugin complexo com funcionalidades avançadas.",
+            "Integração completa e personalizada com a interface do WordPress.",
+            "Opções e configurações avançadas no painel de administração.",
+            "Documentação completa e guia de usuário.",
+            "Exemplo de plugin: Plugin de E-commerce Personalizado",
+            "Desenvolvimento de um addon avançado para Elementor com funcionalidades extensivas.",
+            "Análise e otimização de desempenho do plugin."
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvimento de Landing Pages",
+      "description": "Criação de páginas de vendas otimizadas para conversões.",
+      "perfectFor": "Empresas que querem aumentar suas conversões",
+      "plans": {
+        "basic": {
+          "price": "€199",
+          "description": "BÁSICO.",
+          "features": [
+            "Criação de uma landing page simples.",
+            "Design responsivo para dispositivos móveis e desktop.",
+            "Integração com uma ferramenta de captura de leads.",
+            "Formulário de contato básico.",
+            "Design personalizado com base em um modelo.",
+            "Exemplo de Landing Page: Página de Captura de Leads",
+            "Layout incluído.",
+            "Elementor PRO licença paga pelo cliente.",
+            "Construído por Elementor PRO ou FREE."
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Desenvolvimento de Lojas Virtuais",
+      "description": "Criação de lojas virtuais com WooCommerce e personalização do tema com Elementor.",
+      "perfectFor": "Empresas que querem vender online",
+      "plans": {
+        "basic": {
+          "price": "€700",
+          "description": "Escopo básico.",
+          "features": [
+            "Criação de loja virtual simples com WooCommerce.",
+            "Design responsivo para dispositivos móveis e desktop.",
+            "Tema básico com tema filho personalizado.",
+            "Configuração inicial do WooCommerce (pagamentos, envios, impostos).",
+            "Criação e configuração de até 50 produtos (acima disso, €13 por hora adicional).",
+            "Formulário de contato básico.",
+            "Integração com redes sociais.",
+            "Design personalizado com base em um modelo básico.",
+            "Elementor Free utilizado para construção.",
+            "Documentação básica de uso e administração.",
+            "Página de Privacidade e Política de Cookies incluída.",
+            "Detalhes técnicos e conformidade com a legislação portuguesa incluídos."
+          ]
+        },
+        "essential": {
+          "price": "€1200",
+          "description": "Escopo essencial.",
+          "features": [
+            "Criação de loja virtual completa com WooCommerce.",
+            "Design responsivo para dispositivos móveis e desktop.",
+            "Tema personalizado com tema filho.",
+            "Configuração completa do WooCommerce (pagamentos, envios, impostos, etc.).",
+            "Criação e configuração de até 50 produtos (acima disso, €13 por hora adicional).",
+            "Integração com redes sociais e ferramentas de marketing.",
+            "Criação de páginas adicionais (Sobre, Política de Privacidade, Política de Cookies, etc.).",
+            "Formulário de contato avançado.",
+            "Design personalizado com Elementor Pro.",
+            "Otimização básica para SEO.",
+            "Documentação detalhada de uso e administração.",
+            "Página de Privacidade e Política de Cookies incluída.",
+            "Detalhes técnicos e conformidade com a legislação portuguesa incluídos."
+          ]
+        },
+        "premium": {
+          "price": "€1500",
+          "description": "Escopo personalizado.",
+          "features": [
+            "Criação de loja virtual avançada com WooCommerce.",
+            "Design responsivo e altamente personalizado para dispositivos móveis e desktop.",
+            "Tema totalmente personalizado com tema filho.",
+            "Configuração completa e avançada do WooCommerce (pagamentos, envios, impostos, etc.).",
+            "Criação e configuração de produtos ilimitados (acima de 50 produtos, €13 por hora adicional).",
+            "Integração com redes sociais, ferramentas de marketing e CRM.",
+            "Criação de páginas adicionais e blogs.",
+            "Formulários de contato e de feedback avançados.",
+            "Design personalizado com Elementor Pro.",
+            "Otimização avançada para SEO.",
+            "Integração com ferramentas de análise e acompanhamento de conversões.",
+            "Treinamento e suporte para equipe de administração incluídos.",
+            "Página de Privacidade e Política de Cookies incluída.",
+            "Detalhes técnicos e conformidade com a legislação portuguesa incluídos."
+          ]
+        }
+      }
+    }
+  ],
+  "design": [
+    {
+      "id": 1,
+      "name": "Design de Interfaces de Baixa Fidelidade",
+      "description": "Criação de protótipos de baixa fidelidade para visualização e planejamento.",
+      "perfectFor": "Projetos que estão na fase inicial de desenvolvimento",
+      "plans": {
+        "basic": {
+          "price": "€180",
+          "description": "Para até 6 páginas. Inclui criação de wireframes básicos e estrutura geral do layout, permitindo uma visão geral das funcionalidades e disposição dos elementos da página.",
+          "features": [
+            "Criação de Wireframes Básicos: Protótipos de baixa fidelidade para até 6 páginas.",
+            "Estrutura Geral do Layout: Planejamento da disposição dos elementos na página.",
+            "Visualização Inicial: Oferece uma visão geral das funcionalidades do site.",
+            "Feedback e Ajustes: Inclusão de uma rodada de feedback e ajustes baseados nas necessidades do cliente."
+          ]
+        },
+        "medium": {
+          "price": "€225",
+          "description": "Para de 6 a 15 páginas. Inclui desenvolvimento de wireframes mais detalhados e estrutura do layout com mais elementos e funcionalidades descritas.",
+          "features": [
+            "Criação de Wireframes Detalhados: Protótipos de baixa fidelidade para 6 a 15 páginas.",
+            "Estrutura do Layout: Planejamento detalhado com mais elementos e funcionalidades.",
+            "Visualização Mais Completa: Melhoria na visualização das funcionalidades e fluxo do site.",
+            "Feedback e Ajustes: Inclusão de uma rodada de feedback e ajustes baseados nas necessidades do cliente."
+          ]
+        },
+        "premium": {
+          "price": "€400",
+          "description": "Para de 15 a 25 páginas. Inclui criação de protótipos completos com detalhamento extensivo e planejamento abrangente das funcionalidades e layout do site.",
+          "features": [
+            "Criação de Protótipos Completos: Wireframes para 15 a 25 páginas com detalhamento extensivo.",
+            "Planejamento Abrangente: Planejamento completo das funcionalidades e layout do site.",
+            "Visualização Detalhada: Visão detalhada das funcionalidades e fluxo do site.",
+            "Feedback e Ajustes: Inclusão de rodadas de feedback e ajustes para atender às necessidades do cliente."
+          ]
+        }
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Manutenção",
+      "description": "Serviço contínuo para garantir que o seu site funcione corretamente.",
+      "perfectFor": "Clientes que querem manter seu site atualizado e seguro",
+      "price": "€50 por mês",
+      "details": [
+        "Atualizações Regulares: Aplicação de atualizações de WordPress, plugins e temas.",
+        "Backup Periódico: Realização de backups completos do site, incluindo banco de dados e arquivos.",
+        "Monitoramento de Segurança: Verificação de segurança para detectar e prevenir possíveis ameaças.",
+        "Correção de Erros: Resolução de problemas técnicos e bugs identificados no site.",
+        "Otimização de Desempenho: Análise e otimização do desempenho do site para melhorar a velocidade de carregamento.",
+        "Suporte Técnico: Atendimento para perguntas e problemas técnicos relacionados ao site."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Melhorias e Correções",
+      "description": "Serviço de melhoria e correção para otimização do site e resolução de bugs.",
+      "perfectFor": "Clientes que precisam de ajustes contínuos em seu site",
+      "price": "€13 por hora",
+      "details": [
+        "Correção de Bugs: Identificação e resolução de erros e falhas no site.",
+        "Ajustes de Funcionalidade: Modificação e aprimoramento de funcionalidades existentes no site.",
+        "Aprimoramento de Design: Melhorias visuais e ajustes no design do site para melhor alinhamento com as necessidades do cliente.",
+        "Atualizações de Conteúdo: Inclusão e atualização de conteúdos, imagens e textos.",
+        "Otimização Adicional: Análise e otimização adicional para melhorar o desempenho e a experiência do usuário.",
+        "Personalização de Plugins: Modificação e personalização de plugins existentes para atender a novos requisitos."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Suporte",
+      "description": "Apoio contínuo para resolver questões e fornecer assistência técnica.",
+      "perfectFor": "Clientes que necessitam de suporte técnico constante",
+      "price": "A definir",
+      "details": [
+        "Assistência Técnica: Suporte técnico para resolver problemas e responder a perguntas sobre o funcionamento do site.",
+        "Consultoria: Orientação sobre melhores práticas e estratégias para manter e melhorar o site.",
+        "Resolução de Problemas: Diagnóstico e resolução de problemas técnicos específicos conforme necessário.",
+        "Treinamento Adicional: Treinamento adicional para a equipe do cliente sobre como gerenciar e utilizar o site."
+      ]
+    }
+  ]
+}
